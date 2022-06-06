@@ -25,7 +25,7 @@ url = "^2.1"
 # Version numbers (not just semver, because we deal with all sorts of versions)
 versions = "^2"
 # Extract version numbers for command output
-regex = "^1.3"
+regex = "^1.5"
 # License expressions
 spdx = "^0.3"
 
